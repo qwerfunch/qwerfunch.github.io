@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://qwerfunch.github.io/sitemap.xml
-Sitemap: https://qwerfunch.github.io/logcat-on-releases/sitemap.xml
+Sitemap: https://purpleeddy.github.io/logcat-on-releases/sitemap.xml
